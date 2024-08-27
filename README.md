@@ -7,9 +7,8 @@
 `La letra "a" es convertida para "ai"`
 `La letra "o" es convertida para "ober"`
 `La letra "u" es convertida para "ufat"`
-#### con ello se encripta el texto un ejemplo es el siguiente
+#### !Les reto a probar mi el desencriptador con el siguiente texto!
 ##### `lenterobern scobertt kenternnenterdy`
-!LES DEJO DE USEN ESE TEXTO PARA PODER PROBAR MI PROYECTO SIN MAS LES AGRADEZCO ESTA OPOTUNIDAD!
 ###### Se Despide FalloutVaulter
 
 ![resident-evil-4-anime](https://github.com/user-attachments/assets/26a992c8-1d53-4ed8-ac3b-08a5448e0a30)
